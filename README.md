@@ -14,3 +14,7 @@ Customize the QR code size, color, and background as needed.
 Click the "Generate QR Code" button.
 The QR code will be displayed on the page.
 To download the QR code, click the "Download" button and select the desired file format 
+
+
+# Contact
+nate14natu@gmail.com
